@@ -1,0 +1,72 @@
+{
+  "brand": {
+    "episode": "[EPISODE]",
+    "series": "[SOURCE-FAITHFUL TOPIC]",
+    "url": "powerwithin.riverside.com"
+  },
+  "slides": [
+    {
+      "file": "01-tension",
+      "number": "01",
+      "background": "sand",
+      "ink": "ink",
+      "bookend": true,
+      "art": "rings",
+      "title": ["[CORE TENSION]"],
+      "body": ["[One source-faithful clarification.]"],
+      "bodyY": 520
+    },
+    {
+      "file": "02-distinction",
+      "number": "02",
+      "background": "sage",
+      "ink": "white",
+      "art": "open-edge",
+      "title": ["[A clear distinction", "in natural English.]"],
+      "body": ["[One supporting line.]"],
+      "bodyY": 520
+    },
+    {
+      "file": "03-metaphor",
+      "number": "03",
+      "background": "white",
+      "ink": "ink",
+      "art": "wave",
+      "title": ["[The episode's verified", "metaphor or concrete image.]"],
+      "body": ["[Context without invention.]"],
+      "bodyY": 980
+    },
+    {
+      "file": "04-practice",
+      "number": "04",
+      "background": "sand",
+      "ink": "ink",
+      "art": "breath",
+      "title": ["[One small practice", "grounded in the source.]"],
+      "body": ["[A single, doable instruction.]"],
+      "bodyY": 440
+    },
+    {
+      "file": "05-invitation",
+      "number": "05",
+      "background": "sage",
+      "ink": "white",
+      "bookend": true,
+      "art": "path",
+      "title": ["[WARM INVITATION]"],
+      "question": ["[One specific,", "answerable question?]"],
+      "questionY": 900,
+      "cta": [
+        {
+          "label": "POWER WITHIN PODCAST · [EP]",
+          "value": "powerwithin.riverside.com"
+        },
+        {
+          "label": "1:1 DISCOVERY CALL WITH RAN",
+          "value": "calendly.com/randing-work/coaching-session"
+        }
+      ],
+      "linkInBio": false
+    }
+  ]
+}
