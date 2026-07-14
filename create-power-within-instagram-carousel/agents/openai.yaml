@@ -1,0 +1,7 @@
+interface:
+  display_name: "Power Within Cross-Platform Carousel"
+  short_description: "Create one carousel for Instagram and LinkedIn"
+  icon_small: "./assets/logo.png"
+  icon_large: "./assets/logo.png"
+  brand_color: "#7D8965"
+  default_prompt: "Use $create-power-within-instagram-carousel to turn verified podcast material into one native-English Power Within carousel for Instagram PNG and LinkedIn PDF, then stop for approval."
